@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Avdeev_PR22</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="items">
+        <item>Предмет</item>
+        <item>Линейка для измерения прямых</item>
+        <item>Ручка, чтобы писать</item>
+        <item>Карандаш, чтобы чертить/рисовать</item>
+    </string-array>
+</resources>

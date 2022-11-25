@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentTask</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="frukts">
+        <item>Просто фрукт</item>
+        <item>Яблоко -  просто яблоко</item>
+        <item>Вай какой сочный персик</item>
+        <item>А вот и груша, нельзя скушать</item>
+    </string-array>
+</resources>
